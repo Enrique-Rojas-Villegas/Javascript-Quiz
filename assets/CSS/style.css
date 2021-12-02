@@ -1,0 +1,61 @@
+body {
+  font-family: "Playfair Display", serif;
+  background-color: #28464b;
+  color: white;
+}
+
+header {
+  display: inline-block;
+}
+
+.incorrect {
+  color: #ff0000;
+}
+
+.correct {
+  color: #08cf19;
+}
+
+.scores {
+  float: left;
+}
+
+.time {
+  float: right;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+.center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+}
+
+#highScores {
+  cursor: pointer;
+  font-size: 30px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+#timer {
+  font-size: 30px;
+}
+
+.left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 91%;
+}
+
+button {
+  background-color: red;
+}
