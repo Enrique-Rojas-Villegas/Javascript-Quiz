@@ -1,4 +1,4 @@
-# Javascript-Quiz
+# Javascript-Quiz 4th assignment
 
 This week we had to build using external FrameWorks for aJavascript a program that made a simple quiz
 
@@ -24,3 +24,10 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
+
+SCREENSHOTS OF APPLICATIONS FUNCTIONALITY:
+
+![First Main screen for the web page. Start of functions in JS here.](./assets/images/Main-screen.jpg)
+![Question example](./assets/images/question-1.jpg)
+![This is the finished image for the test](./assets/images/finished-screen.jpg)
+![Scores screen, where you can see the name written by user](./assets/images/scores-screen.jpg)
