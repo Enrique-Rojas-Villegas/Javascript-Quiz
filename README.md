@@ -20,7 +20,7 @@ WHEN I answer a question
 THEN I am presented with another question
 WHEN I answer a question incorrectly
 THEN time is subtracted from the clock
-WHEN all questions are answered or the timer reaches 0
+WHEN all questions are answered or the timer reaches
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
@@ -31,3 +31,5 @@ SCREENSHOTS OF APPLICATIONS FUNCTIONALITY:
 ![Question example](./assets/images/question-1.jpg)
 ![This is the finished image for the test](./assets/images/finished-screen.jpg)
 ![Scores screen, where you can see the name written by user](./assets/images/scores-screen.jpg)
+
+If you cant see the images, there is a folder in this repository for you to consult.
